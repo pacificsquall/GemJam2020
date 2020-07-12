@@ -330,7 +330,7 @@
             "Key": "80ce7367-922e-449f-bee9-43cf55c1ab67",
             "Value": {
                 "id": "8b96f405-f2e4-4957-8320-6ac45a59ebbd",
-                "resourcePath": "scripts\\InstertTile\\InstertTile.yy",
+                "resourcePath": "scripts\\InsertTile\\InsertTile.yy",
                 "resourceType": "GMScript"
             }
         },
