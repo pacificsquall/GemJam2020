@@ -17,3 +17,5 @@ for (q = (ds_grid_width(oBoard.hexgrid) - 1); q > 0; q--)
 	}
 
 return;
+
+//butts
