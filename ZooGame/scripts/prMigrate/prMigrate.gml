@@ -5,14 +5,14 @@
 	// true is carnivore false is herbivore
 /// @param q
 /// @param r
-
+/*
 var adjlist = BoardGetAdj(argument3, argument4);
 var ticker = 0;
 var listick = ds_list_create();
 var adj;
 if(argument2==true){
 	for(var i; i < array_length_1d(adjlist); i++){
-		adj = BoardGetTile(prBoardGetCoord[0], prBoardGetCoord[1]);
+		adj = BoardGetTile(prBoardGetCoord(adjlist[0]), prBoardGetCoord[1]);
 		if(adj == -1){
 			
 		}else if(adj.temp == argument1.carnivores[| argument1].temp_pref && adj.moist == argument1.carnivores[| argument1].moist_pref){
@@ -43,4 +43,4 @@ if(argument2==true){
 			ds_list_delete(argument1.carnivores, argument0);
 		}
 	ds_list_destroy(adjlist);
-}
+}*/

@@ -41,4 +41,4 @@ else if (ItemY < 0)
 	return 1;
 }
 
-return -1;
+return false;
