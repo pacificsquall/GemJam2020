@@ -13,22 +13,22 @@ newtile.capacity = argument0;
 newtile.temp = argument1;
 newtile.moist = argument2;
 if(newtile.temp== 0 && newtile.moist == 0){
-	newtile.sprite_index=
+	newtile.sprite_index=sDryHot;
 }else if(newtile.temp== 1 && newtile.moist == 0){
-	newtile.sprite_index=
+	newtile.sprite_index=sDryTemperate;
 }else if(newtile.temp== 2 && newtile.moist == 0){
-	newtile.sprite_index=
+	newtile.sprite_index=sDryCold;
 }else if(newtile.temp== 0 && newtile.moist == 1){
-	newtile.sprite_index=
+	newtile.sprite_index=sTemperateHot;
 }else if(newtile.temp== 1 && newtile.moist == 1){
-	newtile.sprite_index=
+	newtile.sprite_index=sTemperateTemperate;
 }else if(newtile.temp== 2 && newtile.moist == 1){
-	newtile.sprite_index=
+	newtile.sprite_index=sTemperateCold;
 }else if(newtile.temp== 0 && newtile.moist == 2){
-	newtile.sprite_index=
+	newtile.sprite_index=sWetHot;
 }else if(newtile.temp== 1 && newtile.moist == 2){
-	newtile.sprite_index=
+	newtile.sprite_index=sWetTemperate;
 }else if(newtile.temp== 2 && newtile.moist == 2){
-	newtile.sprite_index=
+	newtile.sprite_index=sWetCold;
 }
 BoardSet(pos[0],pos[1], newtile);
