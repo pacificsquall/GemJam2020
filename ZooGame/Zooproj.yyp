@@ -194,7 +194,23 @@
             "Key": "3c4e1cf9-51c1-49c8-9063-7c42c952b6b4",
             "Value": {
                 "id": "6a753090-938f-45fb-9681-695c7b0108a2",
-                "resourcePath": "sprites\\sMenu\\sMenu.yy",
+                "resourcePath": "sprites\\sMenuRound\\sMenuRound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3cb218c6-944f-4e14-ab8a-2bedb29d2db5",
+            "Value": {
+                "id": "59fd2895-845c-4fbc-94d5-a615e97f3819",
+                "resourcePath": "sprites\\sHerbavore\\sHerbavore.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a21ae06-8483-4fdc-9d1c-3035112e06c5",
+            "Value": {
+                "id": "68adc77e-f720-4bfa-ab25-e7414d7a3b9b",
+                "resourcePath": "sprites\\sCarnivore\\sCarnivore.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -535,6 +551,14 @@
             }
         },
         {
+            "Key": "e0146db5-41e3-4351-9f67-b9a7db687fa3",
+            "Value": {
+                "id": "d900b2cb-b0f3-4e86-b7cf-3e12c5a23960",
+                "resourcePath": "views\\e0146db5-41e3-4351-9f67-b9a7db687fa3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e047e5f4-94a4-412e-a51f-4582e6b088af",
             "Value": {
                 "id": "4ac67b15-e8fd-4f90-83c5-8c642f0584a7",
@@ -620,6 +644,22 @@
                 "id": "c4196ba0-f7d3-40a4-af06-ea9f3866e5f9",
                 "resourcePath": "views\\fa95e63b-68f7-4599-96bd-6cabafef4ce1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fbcb16b7-20f7-414f-b13d-379cf8ee540d",
+            "Value": {
+                "id": "c62cec79-15cc-4f86-9847-7373e0a75c01",
+                "resourcePath": "sprites\\sMenuSharp\\sMenuSharp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc516b24-eb84-4e78-b104-d791cad04ec0",
+            "Value": {
+                "id": "f24fbe27-eaad-43e7-a41f-e1084e2c95d9",
+                "resourcePath": "objects\\oTitleIcon\\oTitleIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
