@@ -3,17 +3,18 @@
 /// @param y
 /// @param SizeX
 /// @param SizeY
+var hex = [0, 0];
 
 hex[0] = (((2 * argument1) / argument3) - (argument0 / (argument2 - 64/3))) / 2;
 hex[1] = (((2 * argument1) / argument3) + (argument0 / (argument2 - 64/3))) / 2;
 
-rx = round(hex[0]);
-ry = round(hex[1]);
-rz = round(0 - (hex[0] - hex[1]));
+var rx = round(hex[0]);
+var ry = round(hex[1]);
+var rz = round(0 - (hex[0] - hex[1]));
 
-x_diff = abs(rx - hex[0]);
-y_diff = abs(ry - hex[1]);
-z_diff = abs(rz - (hex[0] - hex[1]));
+var x_diff = abs(rx - hex[0]);
+var y_diff = abs(ry - hex[1]);
+var z_diff = abs(rz - (hex[0] - hex[1]));
 
 /*
 if x_diff > y_diff and x_diff > z_diff

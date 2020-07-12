@@ -8,7 +8,7 @@
 // sets the item at position x,y on the Board to the given value. Intended use it to place tile objects in grid.
 
 // its 5:14 getting pretty tired. code might be buggy. double check it when u get some sleep isaac.
-
+ds_list_add(tileList,[argument0, argument1]);
 var ItemX, ItemY;
 ItemX = argument0 + oBoard.qOffset;
 ItemY = argument1 + oBoard.rOffset;
