@@ -5,7 +5,7 @@
 	// true is carnivore false is herbivore
 /// @param q
 /// @param r
-
+/*
 var adjlist = BoardGetAdj(argument3, argument4);
 var ticker = 0;
 var listick = ds_list_create();
@@ -43,4 +43,4 @@ if(argument2==true){
 			ds_list_delete(argument1.carnivores, argument0);
 		}
 	ds_list_destroy(adjlist);
-}
+}*/
