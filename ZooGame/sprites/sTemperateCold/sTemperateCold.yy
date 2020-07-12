@@ -6,13 +6,13 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 54,
+    "bbox_bottom": 53,
     "bbox_left": 0,
     "bbox_right": 63,
-    "bbox_top": 15,
-    "bboxmode": 2,
+    "bbox_top": 13,
+    "bboxmode": 0,
     "colkind": 0,
-    "coltolerance": 0,
+    "coltolerance": 108,
     "edgeFiltering": false,
     "frames": [
         {
@@ -55,7 +55,7 @@
         }
     ],
     "origin": 4,
-    "originLocked": false,
+    "originLocked": true,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
