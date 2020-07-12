@@ -1,6 +1,5 @@
 /// BoardTick()
 var migrationQueue = ds_queue_create();
-var tileList = ;//currently expects 
 var q;
 var r;
 var dequeueing;
