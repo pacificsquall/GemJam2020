@@ -2,7 +2,7 @@
     "id": "21c47bb6-b46a-45d8-bdba-580acdeabc90",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sHex",
+    "name": "sDryHot",
     "For3D": false,
     "HTile": false,
     "VTile": false,

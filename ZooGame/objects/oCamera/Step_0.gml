@@ -1,11 +1,11 @@
-x += (xTo - x)/25;
-y += (yTo - y)/25;
+x += (xTo);
+y += (yTo);
 
 var vm = matrix_build_lookat(x,y,-10,x,y,0,0,1,0);
 camera_set_view_mat(camera, vm);
 
-xTo = x + (keyboard_key_press(ord("D") - keyboard_key_press(ord("A"))))
-yTo = y + (keyboard_key_press(ord("W") - keyboard_key_press(ord("S"))))
+xTo = 20*(keyboard_check(ord("D")) - keyboard_check(ord("A")));
+yTo = 20*(keyboard_check(ord("S")) - keyboard_check(ord("W")));
 
 
 if mouse_wheel_up()

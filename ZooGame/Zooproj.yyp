@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1236cec6-b4d5-4adc-aa2d-f28089621845",
+            "Value": {
+                "id": "43dc9e0f-495b-4395-9e63-69aec642d952",
+                "resourcePath": "views\\1236cec6-b4d5-4adc-aa2d-f28089621845.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1a592838-1010-4d7a-be70-babbbc3c144e",
             "Value": {
                 "id": "e37da9a2-00f5-4def-baf0-9639c493dbc3",
@@ -114,7 +122,7 @@
             "Key": "21c47bb6-b46a-45d8-bdba-580acdeabc90",
             "Value": {
                 "id": "e76d9239-1da3-446e-a8c8-e79878da4104",
-                "resourcePath": "sprites\\sHex\\sHex.yy",
+                "resourcePath": "sprites\\sDryHot\\sDryHot.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "5134b7bb-19fb-4b43-ad15-e52606b94a83",
+            "Value": {
+                "id": "3f6c4287-cc29-42db-a33d-dbd385af664a",
+                "resourcePath": "sprites\\sTemperateHot\\sTemperateHot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54481f5b-6eea-4403-90da-e82ee26d75aa",
             "Value": {
                 "id": "d76d21c7-74ed-42e3-a1b3-631d1f9bed08",
@@ -220,6 +236,14 @@
                 "id": "343d0c10-7261-4325-81f1-7950c86a9966",
                 "resourcePath": "scripts\\BoardGetTile\\BoardGetTile.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6347dbcd-be57-4343-9dc6-5ce60da93a3d",
+            "Value": {
+                "id": "62d9b6f5-ae07-4465-96b2-7a61c630a8c5",
+                "resourcePath": "sprites\\sWetHot\\sWetHot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -319,6 +343,22 @@
             }
         },
         {
+            "Key": "8d5334ff-6bce-4cec-afae-19946028a736",
+            "Value": {
+                "id": "37328b2b-dbce-405e-80b3-0fd197ee182b",
+                "resourcePath": "sprites\\sDryCold\\sDryCold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d9ae465-6abe-437b-87c4-87f6604b4a6c",
+            "Value": {
+                "id": "72d16c46-3bab-46cd-99ae-41e5d5c01fa1",
+                "resourcePath": "sprites\\sTemperateTemperate\\sTemperateTemperate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8ff9b213-77b8-4c9f-b531-68ea92ec6cef",
             "Value": {
                 "id": "e03443d4-9fe5-4643-8170-6239edf99432",
@@ -335,11 +375,27 @@
             }
         },
         {
+            "Key": "9184930b-99e9-4a3c-a13a-cc51fed2ee3e",
+            "Value": {
+                "id": "62f149ae-131a-475c-a857-9835bb45d075",
+                "resourcePath": "sprites\\sWetTemperate\\sWetTemperate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9350c6ba-caa7-4246-b237-8a5f86e15620",
             "Value": {
                 "id": "3ff40858-d578-478b-b190-57de85525c93",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "94235fde-d409-4b05-a13d-005de573f248",
+            "Value": {
+                "id": "5bcd7431-1e1d-4b26-a20c-4c152820fda9",
+                "resourcePath": "sprites\\sTemperateCold\\sTemperateCold.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -388,6 +444,14 @@
                 "id": "e87e6487-3f4b-470a-a5ca-6c9237835ab0",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b2533913-b059-4f0c-aa05-84bf83e3f34f",
+            "Value": {
+                "id": "2111fb14-c017-4f73-9ee8-8e6d0b2e4a58",
+                "resourcePath": "sprites\\sDryTemperate\\sDryTemperate.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -500,6 +564,14 @@
                 "id": "5b64282b-261c-48af-ad25-0c41bad4b3a8",
                 "resourcePath": "views\\e7ccd589-d783-4909-836b-abeb45148088.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f2c7a57e-fac0-48b0-98ea-9613eedb2ad9",
+            "Value": {
+                "id": "151e5348-f352-4f59-a0af-94de88ac44d7",
+                "resourcePath": "sprites\\sWetCold\\sWetCold.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
