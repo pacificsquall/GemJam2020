@@ -7,7 +7,7 @@
 /// @param temp_pref
 /// @param moist_pref
 /// @param reproduction_value
-
+/*
 var gridcoords = HexToGrid(argument1, argument2, 64, 38); // for wehn whe need to displayh predaterhs
 
 if(argument0=true){
@@ -24,4 +24,4 @@ if(argument0=true){
 		AnimalMoistSet(newherb, argument5);
 		CarnMaxFullnessSet(newherb, argument6);
 		ds_list_add(BoardGetTile(argument1,argument2).carnivores, newherb);	
-}
+}*/

@@ -1,13 +1,13 @@
 /// BoardTick()
-var tqueue = [irandom(15)+5, irandom(2), irandom(2)];
-ds_queue_enqueue(tileQueue, tqueue);
+//var tqueue = [irandom(15)+5, irandom(2), irandom(2)];
+//ds_queue_enqueue(tileQueue, oBoard.tqueue);
 var migrationQueue = ds_queue_create();
 var q;
 var r;
 var dequeueing;
-for(var i = 0; i< array_length_1d(tileList); i++){
-	q = tileList[i,0];
-	r = tileList[i,1];
+for(var i = 0; i< array_length_1d(oBoard.tileList); i++){
+	q = oBoard.tileList[i,0];
+	r = oBoard.tileList[i,1];
 	TickTile(q, r,BoardGetTile(q,r),migrationQueue);
 }
 while(ds_queue_size(migrationQueue)>0){

@@ -1,10 +1,15 @@
-/// HexToGrid(q,r,SizeX,SizeY)
+/// HexToGrid(q,r,scale)
 /// @param q
 /// @param r
-/// @param SizeX
-/// @param SizeY
+/// @param Scale
 //test
-var co= [0,0];
-co[0] = -(argument0 - argument1) * (argument2 - 64/3);
-co[1] = ((argument0 + argument1)) * (argument3 / 2);
-return co;
+
+var _q = argument0;
+var _r = argument1;
+var _scale = argument2;
+
+var _GridCoordinates = [
+	_scale * ((hexWidth * _q) + (-hexWidth * _r)), //x coord
+	_scale * ((hexHeight * _q) + (hexHeight * _r)) //y coord
+]
+return _GridCoordinates;

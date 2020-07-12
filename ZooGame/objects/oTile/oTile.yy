@@ -52,7 +52,7 @@
             "rangeMax": 1000,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "-1",
             "varName": "capacity",
             "varType": 1
         },
@@ -78,7 +78,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "temp",
+            "varName": "temperatureClimateValue",
             "varType": 1
         },
         {
@@ -92,39 +92,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "moist",
+            "varName": "moistureClimateValue",
             "varType": 1
-        },
-        {
-            "id": "fd0a2deb-d3b3-4f71-aaac-2bc6fef71d8f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "ds_list_create()",
-            "varName": "herbivores",
-            "varType": 4
-        },
-        {
-            "id": "88ebc848-f28d-47b2-9754-084364a71006",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "ds_list_create()",
-            "varName": "carnivores",
-            "varType": 4
         }
     ],
     "solid": false,
-    "spriteId": "21c47bb6-b46a-45d8-bdba-580acdeabc90",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

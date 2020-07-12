@@ -6,10 +6,6 @@ if (mouse_check_button(mb_left))
 	}
 	else if (menuIndex = 1)
 	{
-		// go to Options
-	}
-	else if (menuIndex = 2)
-	{
 		game_end();
 	}
 }

@@ -2,7 +2,6 @@ menuIndex = -1;
 
 menuButtons = [
 	"Exit",
-	"Options",
 	"New Game"
 ];
 

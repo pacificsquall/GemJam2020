@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "24c139d5-e336-4cec-b08d-6c7bf094f46d",
+            "Value": {
+                "id": "d29bb227-9775-4a77-bba9-57cb75c51f60",
+                "resourcePath": "scripts\\GrowTile\\GrowTile.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "270407c9-f9e8-4c7f-90fe-b182240e9a21",
             "Value": {
                 "id": "44ec9581-ba61-448a-aa9d-97a484652fe3",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "3594ae31-7893-4b56-a405-20af66e35b4b",
+            "Value": {
+                "id": "c19c09db-2198-4062-959a-2acab093ac52",
+                "resourcePath": "scripts\\Macros\\Macros.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3c4e1cf9-51c1-49c8-9063-7c42c952b6b4",
             "Value": {
                 "id": "6a753090-938f-45fb-9681-695c7b0108a2",
@@ -204,6 +220,14 @@
                 "id": "59fd2895-845c-4fbc-94d5-a615e97f3819",
                 "resourcePath": "sprites\\sHerbavore\\sHerbavore.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "433689bb-426b-4a81-bdc8-bccf393aa17f",
+            "Value": {
+                "id": "747bf9dd-3bf3-47e2-81a4-d5438f3345f2",
+                "resourcePath": "objects\\oSetUpGame\\oSetUpGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "81bdddf4-39ad-4a2c-8156-de55ace5c22f",
+            "Value": {
+                "id": "df2b0802-060d-4c59-a026-068b9c898306",
+                "resourcePath": "scripts\\TileCreate\\TileCreate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8444e2ad-1a8f-4f00-8c96-f2908b382502",
             "Value": {
                 "id": "21821b95-2508-4cf3-a595-23402af1c348",
@@ -423,6 +455,22 @@
             }
         },
         {
+            "Key": "958025ca-fcbc-4321-be09-d8ee9b528013",
+            "Value": {
+                "id": "d8db99ca-a444-48f6-85f0-efab620f80bc",
+                "resourcePath": "objects\\oTimer\\oTimer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9ccb900e-158f-4b32-8c08-b4fdf12103ba",
+            "Value": {
+                "id": "2a44fc46-83a9-4f89-a7eb-cc3397d94286",
+                "resourcePath": "scripts\\TileAdd\\TileAdd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9f5a2520-2256-4665-a7b4-332b08ea87ad",
             "Value": {
                 "id": "fec35566-93fb-4c2e-941c-90550616aafd",
@@ -468,6 +516,14 @@
                 "id": "e87e6487-3f4b-470a-a5ca-6c9237835ab0",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ac13bbb3-77cf-423f-84a5-9e8bd52e3b2b",
+            "Value": {
+                "id": "e28acdd6-ca76-4515-b02c-6d21460f141d",
+                "resourcePath": "views\\a77fa706-3e05-439a-bab7-7babcffc8b76-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -599,6 +655,14 @@
             }
         },
         {
+            "Key": "e84acb42-1641-473b-8345-5102dfa695ce",
+            "Value": {
+                "id": "8c9eccc0-5926-450c-8139-7f07d5c79ee7",
+                "resourcePath": "scripts\\queueAnimal\\queueAnimal.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f2c7a57e-fac0-48b0-98ea-9613eedb2ad9",
             "Value": {
                 "id": "151e5348-f352-4f59-a0af-94de88ac44d7",
@@ -697,6 +761,8 @@
         "5d97017d-72d1-40ca-9c05-049c647bb843",
         "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
         "6ba4f56d-49eb-432b-a3f5-f1d306e6b1ea",
+        "3594ae31-7893-4b56-a405-20af66e35b4b",
+        "9ccb900e-158f-4b32-8c08-b4fdf12103ba",
         "c58b8c9e-e992-4f32-9034-a0e359c9d941",
         "a496ef64-af98-41a6-9d66-9c689a03a783",
         "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
@@ -705,6 +771,8 @@
         "2d555aee-1e44-45eb-9cc7-3b0523d3e118",
         "1fada2e5-663e-45f2-b6ca-af6e06d73ee6",
         "80ce7367-922e-449f-bee9-43cf55c1ab67",
+        "24c139d5-e336-4cec-b08d-6c7bf094f46d",
+        "81bdddf4-39ad-4a2c-8156-de55ace5c22f",
         "0107a70e-248f-4b95-9caa-b7955a767b4b",
         "1a592838-1010-4d7a-be70-babbbc3c144e",
         "fe952622-a241-4d36-9bb3-a05d92dff632",
@@ -713,6 +781,7 @@
         "7efc5d25-9770-4c6c-9d9a-5967244942cc",
         "3100684e-4719-4548-afbf-3446474b5d8e",
         "c3de4257-ba4a-4625-bb04-61cad6700b87",
+        "e84acb42-1641-473b-8345-5102dfa695ce",
         "b4046eb5-b35f-4e1d-b6fb-a62c7a8e17e0"
     ],
     "tutorial": ""

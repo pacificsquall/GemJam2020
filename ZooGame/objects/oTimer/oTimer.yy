@@ -1,38 +1,28 @@
 {
-    "id": "270407c9-f9e8-4c7f-90fe-b182240e9a21",
+    "id": "958025ca-fcbc-4321-be09-d8ee9b528013",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oMainMenu",
+    "name": "oTimer",
     "eventList": [
         {
-            "id": "cae41263-c3f7-4ebd-8cc8-513783c19f15",
+            "id": "15168c72-efc0-4b6d-9728-0a3ab396b769",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "270407c9-f9e8-4c7f-90fe-b182240e9a21"
+            "m_owner": "958025ca-fcbc-4321-be09-d8ee9b528013"
         },
         {
-            "id": "ad7a3b74-af78-48ea-93e7-773f4653b205",
+            "id": "e271a3e7-93df-4ca4-8d1d-417168bb0210",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "270407c9-f9e8-4c7f-90fe-b182240e9a21"
-        },
-        {
-            "id": "6280bba6-fad7-4afd-a3b7-e9d136533ebb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "270407c9-f9e8-4c7f-90fe-b182240e9a21"
+            "m_owner": "958025ca-fcbc-4321-be09-d8ee9b528013"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,7 +41,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "2da87a2b-6bb6-4290-bb3e-ea886bbee853",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "timeCount",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
