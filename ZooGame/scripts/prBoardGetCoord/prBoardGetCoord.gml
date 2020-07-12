@@ -9,7 +9,7 @@ ItemY = argument1 + oBoard.rOffset;
 
 if(is_undefined(ds_grid_get(oBoard.hexgrid,ItemX,ItemY)))
 {
-	return -1;
+	return -10;
 }
 else
 {

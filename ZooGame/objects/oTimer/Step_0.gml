@@ -1,7 +1,8 @@
-self.timeCount = ((self.timeCount + 1) mod 900);
-if (self.timecounter == 0)
+self.timeCount = ((self.timeCount + 1) mod 90);
+if (self.timeCount == 0)
 {
-	//add tile
+	show_debug_message("tick");
+	TileAdd();
 }
 
 

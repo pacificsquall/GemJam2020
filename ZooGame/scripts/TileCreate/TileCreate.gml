@@ -21,5 +21,6 @@ _newtile.sprite_index = oTile.climates[_moisture,_temperature];
 
 _newtile.image_xscale = hexScaling;
 _newtile.image_yscale = hexScaling;
+_newtile.depth = _newtile.y;
 
 return _newtile.id;
