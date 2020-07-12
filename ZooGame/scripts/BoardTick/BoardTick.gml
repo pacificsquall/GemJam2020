@@ -1,4 +1,6 @@
 /// BoardTick()
+var tqueue = [irandom(15)+5, irandom(2), irandom(2)];
+ds_queue_enqueue(tileQueue, tqueue);
 var migrationQueue = ds_queue_create();
 var q;
 var r;
