@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0107a70e-248f-4b95-9caa-b7955a767b4b",
-            "Value": {
-                "id": "0a09844c-e558-4fef-9baa-3e8ea9e6dcb8",
-                "resourcePath": "scripts\\AnimalStrSet\\AnimalStrSet.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "02760fa3-6038-473a-ab81-308151ddcfba",
             "Value": {
                 "id": "638b19cb-0f5c-4396-8549-372b5a8ce00b",
@@ -79,14 +71,6 @@
             }
         },
         {
-            "Key": "0d391a70-7e55-4223-b430-3df4f8e4fa40",
-            "Value": {
-                "id": "6bbd3951-48f5-4409-ba91-cacf43291147",
-                "resourcePath": "views\\0d391a70-7e55-4223-b430-3df4f8e4fa40.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "1236cec6-b4d5-4adc-aa2d-f28089621845",
             "Value": {
                 "id": "43dc9e0f-495b-4395-9e63-69aec642d952",
@@ -95,51 +79,11 @@
             }
         },
         {
-            "Key": "1a592838-1010-4d7a-be70-babbbc3c144e",
-            "Value": {
-                "id": "e37da9a2-00f5-4def-baf0-9639c493dbc3",
-                "resourcePath": "scripts\\AnimalTempSet\\AnimalTempSet.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "1a5d3e42-f4de-4de3-9786-38f7378e2059",
-            "Value": {
-                "id": "c806de6a-098e-48b1-8992-8eacad1f950a",
-                "resourcePath": "scripts\\CarnMaxFullnessSet\\CarnMaxFullnessSet.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "1fada2e5-663e-45f2-b6ca-af6e06d73ee6",
-            "Value": {
-                "id": "ce65b9f9-11d9-4f64-b926-b1a679e91638",
-                "resourcePath": "scripts\\prFindStrongest\\prFindStrongest.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "21c47bb6-b46a-45d8-bdba-580acdeabc90",
             "Value": {
                 "id": "e76d9239-1da3-446e-a8c8-e79878da4104",
                 "resourcePath": "sprites\\sDryHot\\sDryHot.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "23068564-7697-4cc3-b423-059baf195b05",
-            "Value": {
-                "id": "95808add-33a3-40cb-bd8c-8d2d54d8aabe",
-                "resourcePath": "sprites\\sGrid\\sGrid.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "24c139d5-e336-4cec-b08d-6c7bf094f46d",
-            "Value": {
-                "id": "d29bb227-9775-4a77-bba9-57cb75c51f60",
-                "resourcePath": "scripts\\GrowTile\\GrowTile.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -175,26 +119,10 @@
             }
         },
         {
-            "Key": "2d555aee-1e44-45eb-9cc7-3b0523d3e118",
-            "Value": {
-                "id": "29ec43c0-2abd-444f-a5ae-c83d0feac530",
-                "resourcePath": "scripts\\TickTile\\TickTile.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "2d88845f-622d-4382-8f2a-65b83dc80330",
             "Value": {
                 "id": "b87e0145-1d46-4f6c-929a-5ca982451cdd",
                 "resourcePath": "scripts\\prBoardShiftQ\\prBoardShiftQ.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "3100684e-4719-4548-afbf-3446474b5d8e",
-            "Value": {
-                "id": "13342365-7ee2-41b5-8ae9-34534ebcf685",
-                "resourcePath": "scripts\\AnimalSort\\AnimalSort.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -255,14 +183,6 @@
             }
         },
         {
-            "Key": "545d27ff-5243-46f5-89e6-0bd412b5157c",
-            "Value": {
-                "id": "52827c71-8b2f-4dce-9874-e105921ba3f3",
-                "resourcePath": "objects\\oAnimal\\oAnimal.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "59388fc0-ed40-4688-90dc-4851587967ac",
             "Value": {
                 "id": "cdad2875-3606-470a-a50b-00eca94d4e56",
@@ -284,14 +204,6 @@
                 "id": "62d9b6f5-ae07-4465-96b2-7a61c630a8c5",
                 "resourcePath": "sprites\\sWetHot\\sWetHot.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "671f8a9e-6105-4d78-b8b1-c88fd3923a69",
-            "Value": {
-                "id": "1ddc0451-0c9f-4378-b2e1-b608a55febb8",
-                "resourcePath": "scripts\\HerbGrowthTimerSet\\HerbGrowthTimerSet.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -335,14 +247,6 @@
             }
         },
         {
-            "Key": "7aebc13a-713b-4d2e-bdbd-604571da9914",
-            "Value": {
-                "id": "c771a235-8896-420d-875d-9ffada4f4626",
-                "resourcePath": "objects\\oHerb\\oHerb.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
             "Value": {
                 "id": "1700613a-5505-415a-b5f0-86844a8ef902",
@@ -356,22 +260,6 @@
                 "id": "0abe0b94-1d5f-4cd7-af5a-c2ec614ad8fd",
                 "resourcePath": "views\\7c02af38-4304-44aa-b16f-9cc93e534dfb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7efc5d25-9770-4c6c-9d9a-5967244942cc",
-            "Value": {
-                "id": "6a4156d6-9eec-4ed4-81e7-a62a23964c29",
-                "resourcePath": "scripts\\prMigrate\\prMigrate.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "80ce7367-922e-449f-bee9-43cf55c1ab67",
-            "Value": {
-                "id": "8b96f405-f2e4-4957-8320-6ac45a59ebbd",
-                "resourcePath": "scripts\\InsertTile\\InsertTile.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -420,14 +308,6 @@
                 "id": "e03443d4-9fe5-4643-8170-6239edf99432",
                 "resourcePath": "scripts\\BoardSet\\BoardSet.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "9150309d-e56e-44c8-b48b-f58eb4bf9c10",
-            "Value": {
-                "id": "07d2958f-15a2-4de9-b7f6-c30f26f9b760",
-                "resourcePath": "objects\\oCarn\\oCarn.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -567,14 +447,6 @@
             }
         },
         {
-            "Key": "c3de4257-ba4a-4625-bb04-61cad6700b87",
-            "Value": {
-                "id": "9fbdced3-1ae1-430d-9522-a74a4e401f74",
-                "resourcePath": "scripts\\newAnimal\\newAnimal.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c58b8c9e-e992-4f32-9034-a0e359c9d941",
             "Value": {
                 "id": "4281fb48-73cd-48d6-bcfc-287c37349a06",
@@ -655,14 +527,6 @@
             }
         },
         {
-            "Key": "e84acb42-1641-473b-8345-5102dfa695ce",
-            "Value": {
-                "id": "8c9eccc0-5926-450c-8139-7f07d5c79ee7",
-                "resourcePath": "scripts\\queueAnimal\\queueAnimal.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f2c7a57e-fac0-48b0-98ea-9613eedb2ad9",
             "Value": {
                 "id": "151e5348-f352-4f59-a0af-94de88ac44d7",
@@ -727,14 +591,6 @@
             }
         },
         {
-            "Key": "fe952622-a241-4d36-9bb3-a05d92dff632",
-            "Value": {
-                "id": "d6ab4402-99a6-4c76-bc1b-60929e2dc0ee",
-                "resourcePath": "scripts\\AnimalMoistSet\\AnimalMoistSet.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "fe9a6d54-df36-43d6-a48e-fce0a08ca695",
             "Value": {
                 "id": "d1a30f9f-0793-42b0-b709-313dc57750b4",
@@ -768,20 +624,7 @@
         "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
         "f962e02b-ade8-4c8a-bfbd-f35e8e6865a2",
         "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
-        "2d555aee-1e44-45eb-9cc7-3b0523d3e118",
-        "1fada2e5-663e-45f2-b6ca-af6e06d73ee6",
-        "80ce7367-922e-449f-bee9-43cf55c1ab67",
-        "24c139d5-e336-4cec-b08d-6c7bf094f46d",
         "81bdddf4-39ad-4a2c-8156-de55ace5c22f",
-        "0107a70e-248f-4b95-9caa-b7955a767b4b",
-        "1a592838-1010-4d7a-be70-babbbc3c144e",
-        "fe952622-a241-4d36-9bb3-a05d92dff632",
-        "1a5d3e42-f4de-4de3-9786-38f7378e2059",
-        "671f8a9e-6105-4d78-b8b1-c88fd3923a69",
-        "7efc5d25-9770-4c6c-9d9a-5967244942cc",
-        "3100684e-4719-4548-afbf-3446474b5d8e",
-        "c3de4257-ba4a-4625-bb04-61cad6700b87",
-        "e84acb42-1641-473b-8345-5102dfa695ce",
         "b4046eb5-b35f-4e1d-b6fb-a62c7a8e17e0"
     ],
     "tutorial": ""
