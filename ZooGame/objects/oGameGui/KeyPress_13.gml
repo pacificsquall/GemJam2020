@@ -1,1 +1,0 @@
-bestiaryExpand = !bestiaryExpand;
