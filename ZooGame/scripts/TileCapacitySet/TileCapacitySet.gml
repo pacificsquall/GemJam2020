@@ -1,5 +1,5 @@
 /// TileCapacitySet(tile, capacity)
-/// @description SetTile(tile, capacity)
+/// @description SetTile(tyle, capacity)
 ///	@param tile
 /// @param capacity
 argument0.capacity = argument1;
