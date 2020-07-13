@@ -1,0 +1,1 @@
+bestiaryExpand = false;
